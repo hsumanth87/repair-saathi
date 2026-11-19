@@ -1,0 +1,6 @@
+{
+  "name": "RepairSaathi",
+  "description": "AI-powered repair and reuse marketplace connecting customers with verified local electronics technicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
